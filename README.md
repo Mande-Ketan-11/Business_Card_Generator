@@ -1,4 +1,4 @@
-### *PHP : Business Card Generator*
+### *Business Card Generator*
 
 #### *Project Description*
 The *Business Card Generator* is a dynamic web application designed to create visually appealing business cards. Using Ajax for seamless submission and data retrieval, it allows users to preview, download, and manage their cards efficiently.
@@ -39,7 +39,9 @@ The *Business Card Generator* is a dynamic web application designed to create vi
 - Integration with cloud storage for card backups.  
 
 #### *Credits*
-- *Developer:* **Ketan Rajendra Mande**  
+- *Developer's:*
+  - **Ketan Rajendra Mande**
+  - **Harsh Ramdhani Mishra** 
 - *Frameworks and Libraries:* Bootstrap, Ajax, SweetAlert2, FontAwesome.
 
 #### *License*
