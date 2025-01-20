@@ -39,7 +39,7 @@ The *Business Card Generator* is a dynamic web application designed to create vi
 - Integration with cloud storage for card backups.  
 
 #### *Credits*
-- *Developer:* Ketan Rajendra Mande  
+- *Developer:* **Ketan Rajendra Mande**  
 - *Frameworks and Libraries:* Bootstrap, Ajax, SweetAlert2, FontAwesome.
 
 #### *License*
